@@ -32,7 +32,8 @@ Maven
 
 OUTPUT:
 
-<img width="1273" height="645" alt="image" src="https://github.com/user-attachments/assets/8a38fe73-4176-44ec-8eba-527a905531e9" />
+<img width="1270" height="317" alt="image" src="https://github.com/user-attachments/assets/2268dee3-5ca0-4dcb-8c19-d1a3e7ada664" />
+
 
 Database:
 
